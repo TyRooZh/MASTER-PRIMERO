@@ -41,5 +41,6 @@ console.log(!false)
 // Truthy y falsy
 console.log(Boolean(true)) // obligar que me devuelva true or false
 console.log(Boolean(0))
+console.log(Boolean(null))
 
 
